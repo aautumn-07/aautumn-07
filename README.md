@@ -1,16 +1,5 @@
 
-## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 💬 Quote Generator
-
-✨ Try my Quote Generator live!
-
-🌐 Live Demo
-
-
-## 💬 Featured Project
 
 ### ✨ Quote Generator
 
@@ -33,4 +22,3 @@ A clean and responsive quote generator built with **HTML**, **CSS**, and **JavaS
     <img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code">
   </a>
 </p>
-
