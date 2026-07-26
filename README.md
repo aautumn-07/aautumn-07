@@ -1,16 +1,15 @@
 
 
-## 👋 About Me
+##  About Me
 
 Hi, I'm Amrit a **Bachelor of Information Technology (BIT)** student  with a passion for building modern web applications and exploring Artificial Intelligence and Machine Learning.
 
 
 * 🎓 BIT Student
 * 💻 Passionate about Software Development & AI/ML
-* 🌱 Currently learning Java, Python & Machine Learning
+
 * 🎯 Goal: Build practical projects and become a skilled Software Engineer
 
----
 
 ## 💬 Featured Project
 
