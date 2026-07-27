@@ -2,7 +2,7 @@
 
 ##  About Me
 
-Hi, I'm Amrit a **Bachelor of Information Technology (BIT)** student  with a passion for building modern web applications and exploring Artificial Intelligence and Machine Learning.
+Hello, I'm Amrit a BIT student  with a passion for building modern software applications and exploring Artificial Intelligence and Machine Learning.
 
 
 * 🎓 BIT Student
