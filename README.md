@@ -22,4 +22,4 @@ A modern and responsive Quote Generator built with **HTML**, **CSS**, and **Java
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Quote%20Generator-blue?style=for-the-badge" alt="Live Demo"/>
   </a>
 </p>
- dls fsdojhe  iowhe jldsoie kj;ile  sljpw ksdie kdo w 
+ dls fsdojhe  iowhe jldsoie kj;ile  sljpw ksdie kdo w pijws kdso d, ;lsdflje
