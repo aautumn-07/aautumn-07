@@ -2,7 +2,7 @@
 
 ##  About Me
 
-Hello, I'm Amrit a IT student  with a passion for building modern software applications and exploring Artificial Intelligence and Machine Learning.
+Hello, I'm a IT student  with a passion for building modern software applications and exploring Artificial Intelligence and Machine Learning.
 
 
 * 🎓 IT Student
