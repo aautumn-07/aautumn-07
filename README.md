@@ -8,7 +8,7 @@ Hello, I'm a IT student  with a passion for building modern software application
 * 🎓 IT Student
 * 💻 Passionate about Software Development & AI/ML
 
-* 🎯 Goal: Build practical projects and become a skilled Software Engineer
+
 
 
 ## 💬 Featured Project
