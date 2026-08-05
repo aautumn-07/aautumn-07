@@ -9,8 +9,6 @@ Hello, I'm a IT student  with a passion for building modern software application
 * 💻 Passionate about Software Development & AI/ML
 
 
-
-
 ## 💬 Featured Project
 
 ### ✨ Quote Generator
@@ -22,4 +20,3 @@ A modern and responsive Quote Generator built with **HTML**, **CSS**, and **Java
     <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Quote%20Generator-blue?style=for-the-badge" alt="Live Demo"/>
   </a>
 </p>
-
