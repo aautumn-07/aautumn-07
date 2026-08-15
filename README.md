@@ -1,11 +1,9 @@
 
-
 ##  About Me
 
 Hello, I'm a IT student  with a passion for building modern software applications and exploring Artificial Intelligence and Machine Learning.
 
 * 💻 Passionate about Software Development & AI/ML.
-
 
 ## 💬 Featured Project
 
